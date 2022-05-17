@@ -1,6 +1,6 @@
 # CM1-v19.6-with-TLM
 Contributors: 
-George Bryan
+George Bryan, 
 Aaron Wang
 
 ---------------------
