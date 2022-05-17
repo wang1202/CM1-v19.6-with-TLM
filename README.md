@@ -1,4 +1,10 @@
 # CM1-v19.6-with-TLM
+Contributors: 
+George Bryan
+Aaron Wang
+
+---------------------
+
 This is the CM1 code with two-layer model (TLM) used for idealized tornado simulation in Wang et al. (2022).  To modify the setting for TLM:
 
 1. Balaras' or Cabot's eddy viscosity
